@@ -12,7 +12,7 @@ The application provides a complete food-ordering experience where customers can
 https://restaurant-ordering-app-xi.vercel.app
 
 **GitHub Repository:**
-https://github.com/OmmPrakash-07/restaurant-ordering-app
+https://github.com/Satyam8917/restaurant-ordering-app
 
 ---
 
@@ -611,54 +611,6 @@ Order status changes are stored in MongoDB and are reflected on the customer ord
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the deployed application here.
-
-### 🏠 Home / Menu
-
-```text
-Add screenshot here
-```
-
-### 🛒 Cart
-
-```text
-Add screenshot here
-```
-
-### 📝 Checkout
-
-```text
-Add screenshot here
-```
-
-### 🎉 Order Success
-
-```text
-Add screenshot here
-```
-
-### 📍 Order Tracking
-
-```text
-Add screenshot here
-```
-
-### 📜 Order History
-
-```text
-Add screenshot here
-```
-
-### 👨‍💼 Admin Dashboard
-
-```text
-Add screenshot here
-```
-
----
-
 ## 🔮 Future Improvements
 
 Possible future enhancements include:
@@ -751,11 +703,11 @@ Customer Order Tracking
 
 ## 👨‍💻 Developer
 
-### Omm Prakash Parida
+### Satyam Padhee
 
 **Full Stack Web Developer**
 
-* GitHub: https://github.com/OmmPrakash-07
+* GitHub: https://github.com/Satyam8917
 * Live Project: https://restaurant-ordering-app-xi.vercel.app
 
 ---
